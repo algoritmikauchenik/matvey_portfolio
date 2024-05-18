@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: aqua;
+    
+}
+p {
+    font-weight: bold;
+    color: aqua
+}
+h1 {
+    text-align: center;
+}
+nav {
+    border: 3px solid aqua;
+    border-radius: 6px;
+    padding: 2px;
+    width: fit-content;
+}
+main img {
+    border-radius: 30px;
+}
